@@ -1,7 +1,7 @@
 pytest-pythonpath
 =================
 
-This is a py.test plugin for adding to the PYTHONPATH from the pytests.ini file before tests run.
+This is a py.test plugin for adding to the PYTHONPATH from the pytest.ini file before tests run.
 
 Installation
 ------------
